@@ -1,0 +1,1 @@
+{"currency":{"$func":["wandering_trades","tradeup","tradedown","tradecoins","tick"]}}

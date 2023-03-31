@@ -1,0 +1,15 @@
+data modify entity @s Offers.Recipes set value {}
+
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_hoe,Count:1},buyB:{id:"minecraft:jigsaw",Count:15,tag:{CustomModelData:4}},sell:{id:diamond_hoe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_shovel,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_shovel,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:fortune,lvl:3},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_shovel,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_shovel,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:silk_touch,lvl:1},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_shovel,Count:1},buyB:{id:"minecraft:jigsaw",Count:15,tag:{CustomModelData:4}},sell:{id:diamond_shovel,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_axe,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_axe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:fortune,lvl:3},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_axe,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_axe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:silk_touch,lvl:1},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_axe,Count:1},buyB:{id:"minecraft:jigsaw",Count:15,tag:{CustomModelData:4}},sell:{id:diamond_axe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_pickaxe,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_pickaxe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:fortune,lvl:3},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_pickaxe,Count:1},buyB:{id:"minecraft:jigsaw",Count:20,tag:{CustomModelData:4}},sell:{id:diamond_pickaxe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:silk_touch,lvl:1},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
+data modify entity @s Offers.Recipes prepend value {buy:{id:diamond_pickaxe,Count:1},buyB:{id:"minecraft:jigsaw",Count:15,tag:{CustomModelData:4}},sell:{id:diamond_pickaxe,Count:1,tag:{Enchantments:[{id:efficiency,lvl:7},{id:unbreaking,lvl:4},{id:mending,lvl:1}]}},rewardExp:0b,maxUses:9999999}
