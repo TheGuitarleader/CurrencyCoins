@@ -1,0 +1,1 @@
+tellraw @a {"text":"CurrencyCoins: Enabled","italic":true,"color":"green","hoverEvent":{"action":"show_text","contents":[{"text":"World settings","color":"white"}]}}

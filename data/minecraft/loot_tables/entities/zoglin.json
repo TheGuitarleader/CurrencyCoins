@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "currency:entities/chips"
+          "name": "currency:entities/coins"
         }
       ],
       "conditions": [

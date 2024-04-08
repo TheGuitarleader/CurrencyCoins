@@ -1,0 +1,2 @@
+tellraw @a {"text":"CurrencyCoins: Disabled","italic":true,"color":"red","hoverEvent":{"action":"show_text","contents":[{"text":"World settings","color":"white"}]}}
+datapack disable "file/CurrencyCoins.zip"

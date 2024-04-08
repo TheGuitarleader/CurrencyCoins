@@ -10,6 +10,14 @@
                 "name": "minecraft:jigsaw",
                 "functions":[
                     {
+                        "function": "minecraft:set_count",
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "min": 1.0,
+                          "max": 6.0
+                        }
+                    },
+                    {
                         "function":"set_nbt",
                         "tag":"{CustomModelData:1}"
                     }
@@ -21,6 +29,14 @@
                 "name": "minecraft:jigsaw",
                 "functions":[
                     {
+                        "function": "minecraft:set_count",
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "min": 1.0,
+                          "max": 4.0
+                        }
+                    },
+                    {
                         "function":"set_nbt",
                         "tag":"{CustomModelData:2}"
                     }
@@ -31,6 +47,14 @@
                 "type": "minecraft:item",
                 "name": "minecraft:jigsaw",
                 "functions":[
+                    {
+                        "function": "minecraft:set_count",
+                        "count": {
+                          "type": "minecraft:uniform",
+                          "min": 1.0,
+                          "max": 2.0
+                        }
+                    },
                     {
                         "function":"set_nbt",
                         "tag":"{CustomModelData:3}"
